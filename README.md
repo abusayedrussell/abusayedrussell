@@ -14,8 +14,7 @@ Thank you for your valuable time and consideration.
 <small>❯❯ You can contact with me on: ↓</small>
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-Abu%20Sayed%20Russell-3b5998)][f] [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abu%20Sayed%20Russell-0e76a8)][l] [![Twitter](https://img.shields.io/twitter/follow/abusayedrussell?label=%40abusayedrussell&style=social)][t] [![Github](https://img.shields.io/github/followers/rsrussell36?style=social&label=Follow)][g] [![Gmail](https://img.shields.io/badge/E--Mail-abusayedrusell%40gmail.com-blue)][gm] [![Website](hhttps://img.shields.io/badge/%20https%3A%2F%2Fimg.shields.io%2Fbadge%2Fhttps%3A%2F%2Fwebpies.com-blue)][wp]
-
+[![Facebook](https://img.shields.io/badge/Facebook-Abu%20Sayed%20Russell-3b5998)][f] [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abu%20Sayed%20Russell-0e76a8)][l] [![Twitter](https://img.shields.io/twitter/follow/abusayedrussell?label=%40abusayedrussell&style=social)][t] [![Github](https://img.shields.io/github/followers/abusayedrussell?style=social&label=Follow)][g] [![Gmail](https://img.shields.io/badge/E--Mail-abusayedrusell%40gmail.com-blue)][gm] [![Website](https://img.shields.io/badge/https%3A%2F%2Fwebpies.com-blue)][wp]
 [f]: https://www.facebook.com/abusayedrussell.36/
 [l]: https://www.linkedin.com/in/abusayedrussell/
 [t]: https://twitter.com/abusayedrussell
